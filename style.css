@@ -1,0 +1,16 @@
+div {
+    border: 1px solid black;
+    width: 901px;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;
+}
+
+    #A1 {
+        border: 1px solid black;
+        width: 299px;
+        height: 600px;
+        margin: 0px;
+        padding: 0px;
+        float: left;
+    }
